@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Test Application with Intentional Secrets
-These secrets WILL be detected by GitLeakss
+These secrets WILL be detected by GitLeaksa
 """
 
 # AWS Credentials (WILL BE DETECTED)
